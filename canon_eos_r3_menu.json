@@ -1,0 +1,675 @@
+{
+	"camera" : "canon EOS R3",
+	"settings": [
+		{
+			"title": "Still Photo Shooting",
+			"position": 1,
+			"color": "#9B000D",
+			"icon": "camera",
+			"1": [
+				{
+					"title": "JPEG/HEIF quality"
+				},
+				{
+					"title": "Img type/size"
+				},
+				{
+					"title": "Cropping/aspect ratio"
+				}
+			],
+			"2": [
+				{
+					"title": "Expo.comp./AEB"
+				},
+				{
+					"title": "StillsISO speed settings"
+				},
+				{
+					"title": "HDR shooting HDR PQ"
+				},
+				{
+					"title": "HDR Mode"
+				},
+				{
+					"title": "Auto Lighting Optimizer"
+				},
+				{
+					"title": "Highlight tone priority"
+				}
+			],
+			"3": [
+				{
+					"title": "Anti-flicker shoot."
+				},
+				{
+					"title": "HF anti-flicker shooting"
+				},
+				{
+					"title": "External Speedlite control"
+				},
+				{
+					"title": "Metering mode"
+				}
+			],
+			"4": [
+				{
+					"title": "White balance"
+				},
+				{
+					"title": "Set Custom WB"
+				},
+				{
+					"title": "WB Shift/Bkt."
+				},
+				{
+					"title": "Picture Style"
+				},
+				{
+					"title": "Clarity"
+				},
+				{
+					"title": "Lens aberration correction"
+				}
+			],
+			"5": [
+				{
+					"title": "Long exp. noise reduction"
+				},
+				{
+					"title": "High ISO speed NR"
+				},
+				{
+					"title": "Dust Delete Data"
+				}
+			],
+			"6": [
+				{
+					"title": "Multiple exposure"
+				},
+				{
+					"title": "Focus bracketing"
+				},
+				{
+					"title": "Panning Assist"
+				}
+			],
+			"7": [
+				{
+					"title": "Drive mode"
+				},
+				{
+					"title": "Interval timer"
+				},
+				{
+					"title": "Bulb timer"
+				},
+				{
+					"title": "Silent shutter function"
+				},
+				{
+					"title": "Shutter mode"
+				},
+				{
+					"title": "Release shutter without card"
+				}
+			],
+			"8": [
+				{
+					"title": "IS (Image Stabilizer) mode"
+				},
+				{
+					"title": "Customize Quick Controls"
+				},
+				{
+					"title": "Touch Shutter"
+				},
+				{
+					"title": "Image review"
+				},
+				{
+					"title": "High speed display"
+				},
+				{
+					"title": "Metering timer"
+				}
+			],
+			"9": [
+				{
+					"title": "Display simulation"
+				},
+				{
+					"title": "OVF sim. view assist"
+				},
+				{
+					"title": "Shooting info. disp."
+				},
+				{
+					"title": "VF display format"
+				},
+				{
+					"title": "Disp. performance"
+				},
+				{
+					"title": "Auto pwr off temp."
+				}
+			]
+		},
+		{
+			"title": "AF (Still Photos)",
+			"position": 2,
+			"color": "#A5007D",
+			"icon": "af",
+			"1": [
+				{
+					"title": "AF operation"
+				},
+				{
+					"title": "AF area"
+				},
+				{
+					"title": "Subject tracking"
+				},
+				{
+					"title": "Subject to detect"
+				},
+				{
+					"title": "Eye detection"
+				},
+				{
+					"title": "Switching tracked subjects"
+				}
+			],
+			"2": [
+				{
+					"title": "Case 1"
+				},
+				{
+					"title": "Case 2"
+				},
+				{
+					"title": "Case 3"
+				},
+				{
+					"title": "Case 4"
+				},
+				{
+					"title": "Case A"
+				},
+				{
+					"title": "Tracking sensitivity"
+				},
+				{
+					"title": "Accel./decel. tracking"
+				}
+			],
+			"3": [
+				{
+					"title": "One-Shot AF release prior."
+				},
+				{
+					"title": "Preview AF"
+				},
+				{
+					"title": "Lens drive when AF impossible"
+				},
+				{
+					"title": "AF-assist beam firing"
+				}
+			],
+			"4": [
+				{
+					"title": "Limit AF areas"
+				},
+				{
+					"title": "AF area selection control"
+				},
+				{
+					"title": "sensitivity- AF pt select"
+				},
+				{
+					"title": "Orientation linked AF point"
+				}
+			],
+			"5": [
+				{
+					"title": "MF peaking settings"
+				},
+				{
+					"title": "Focus guide"
+				},
+				{
+					"title": "Register people priority"
+				}
+			],
+			"6": [
+				{
+					"title": "Electronic full-time MF"
+				},
+				{
+					"title": "Lens electronic MF"
+				},
+				{
+					"title": "Focus/control ring"
+				},
+				{
+					"title": "Focus ring rotation"
+				},
+				{
+					"title": "RF lens MF focus ring sensitivity"
+				}
+			]
+		},
+		{
+			"title": "Playback",
+			"position": 3,
+			"color": "#085ABB",
+			"icon": "play",
+			"1": [
+				{
+					"title": "Protect images"
+				},
+				{
+					"title": "Erase images"
+				},
+				{
+					"title": "Rotate stills"
+				},
+				{
+					"title": "Change mov rotate info"
+				},
+				{
+					"title": "Rating"
+				},
+				{
+					"title": "Image copy"
+				},
+				{
+					"title": "Print order"
+				}
+			],
+			"2": [
+				{
+					"title": "RAW image processing"
+				},
+				{
+					"title": "Cloud RAW image processing"
+				},
+				{
+					"title": "Resize"
+				},
+				{
+					"title": "Cropping"
+				},
+				{
+					"title": "HEIF→JPEG conversion"
+				}
+			],
+			"3": [
+				{
+					"title": "Slide show"
+				},
+				{
+					"title": "Set image search conditions"
+				},
+				{
+					"title": "Magnification"
+				}
+			],
+			"4": [
+				{
+					"title": "Image jump w/Main Dial"
+				},
+				{
+					"title": " Image jump w/RATE+Quick Control Dial"
+				},
+				{
+					"title": "Switch Main Dial/"
+				},
+				{
+					"title": "RATE/Voice memo button function"
+				},
+				{
+					"title": " Memo audio quality"
+				}
+			],
+			"5": [
+				{
+					"title": "Playback information display"
+				},
+				{
+					"title": "Highlight alert"
+				},
+				{
+					"title": "AF point disp."
+				},
+				{
+					"title": "Playback grid"
+				},
+				{
+					"title": "Movie play count"
+				},
+				{
+					"title": "HDMI HDR output"
+				}
+			]
+		},
+		{
+			"title": "Communication Functions",
+			"position": 4,
+			"color": "#3F016E",
+			"icon": "network",
+			"1": [
+				{
+					"title": "Network settings"
+				},
+				{
+					"title": "Airplane mode"
+				},
+				{
+					"title": "Bluetooth settings"
+				},
+				{
+					"title": "Nickname"
+				},
+				{
+					"title": "GPS settings"
+				},
+				{
+					"title": "Image transfer"
+				}
+			],
+			"2": [
+				{
+					"title": "Save/load comm. settings on card"
+				},
+				{
+					"title": "Reset communication settings"
+				}
+			]
+		},
+		{
+			"tile": "Camera",
+			"position": 5,
+			"color": "#BC9901",
+			"icon": "wrench",
+			"1": [
+				{
+					"title": "Record func+card/folder sel."
+				},
+				{
+					"title": "File numbering"
+				},
+				{
+					"title": "File name"
+				},
+				{
+					"title": "Format card"
+				},
+				{
+					"title": "Auto rotate"
+				},
+				{
+					"title": "Add Movie rotate info"
+				},
+				{
+					"title": "Date/Time/Zone"
+				}
+			],
+			"2": [
+				{
+					"title": "Language"
+				},
+				{
+					"title": "Video system"
+				},
+				{
+					"title": "Help text size"
+				},
+				{
+					"title": "Beep"
+				},
+				{
+					"title": "Volume"
+				},
+				{
+					"title": "Headphones"
+				},
+				{
+					"title": "Power saving"
+				}
+			],
+			"3": [
+				{
+					"title": "Screen/viewfinder display"
+				},
+				{
+					"title": "Screen brightness"
+				},
+				{
+					"title": "Viewfinder brightness"
+				},
+				{
+					"title": "Screen/viewfinder color tone"
+				},
+				{
+					"title": "Fine-tune VF color tone"
+				},
+				{
+					"title": "UI magnification"
+				},
+				{
+					"title": "HDMI resolution"
+				}
+			],
+			"4": [
+				{
+					"title": "Eye control"
+				},
+				{
+					"title": "Touch control"
+				},
+				{
+					"title": "Multi function lock"
+				},
+				{
+					"title": "Shutter at shutdown"
+				},
+				{
+					"title": "Sensor cleaning"
+				},
+				{
+					"title": "Choose USB connection app"
+				}
+			],
+			"5": [
+				{
+					"title": "Reset camera"
+				},
+				{
+					"title": "Custom shooting mode (C1-C3)"
+				},
+				{
+					"title": "Save/load cam settings on card"
+				},
+				{
+					"title": "Battery info."
+				},
+				{
+					"title": "Copyright information"
+				},
+				{
+					"title": "System status display"
+				},
+				{
+					"title": "Manual/software URL"
+				}
+			],
+			"6": [
+				{
+					"title": "Certification Logo Display"
+				},
+				{
+					"title": "Firmware"
+				}
+			]
+		},
+		{
+			"title": "Custom Functions",
+			"position": 6,
+			"color": "#A54600",
+			"icon": "custom_camera",
+			"1": [
+				{
+					"title": "Exposure level increments"
+				},
+				{
+					"title": "ISO speed setting increments"
+				},
+				{
+					"title": "Speed from metering/ISO Auto"
+				},
+				{
+					"title": "Bracketing auto cancel"
+				},
+				{
+					"title": "Bracketing sequence"
+				},
+				{
+					"title": "Number of bracketed shots"
+				},
+				{
+					"title": "Safety shift"
+				}
+			],
+			"2": [
+				{
+					"title": "Same expo. for new aperture"
+				},
+				{
+					"title": "AE lock meter. mode after focus"
+				},
+				{
+					"title": "Restrict shooting modes"
+				},
+				{
+					"title": "Restrict metering modes"
+				},
+				{
+					"title": "Metering used in manual exp"
+				},
+				{
+					"title": "Set shutter speed range"
+				},
+				{
+					"title": "Set aperture range"
+				}
+			],
+			"3": [
+				{
+					"title": "AE Microadjustment"
+				},
+				{
+					"title": "FE Microadjustment"
+				},
+				{
+					"title": "Limit continuous shot count"
+				},
+				{
+					"title": "Restrict drive modes"
+				}
+			],
+			"4": [
+				{
+					"title": "direction to set Tv/Av"
+				},
+				{
+					"title": "direction to set Tv/Av"
+				},
+				{
+					"title": "Customize buttons"
+				},
+				{
+					"title": "Customize dials"
+				},
+				{
+					"title": "Clear customized settings"
+				}
+			],
+			"5": [
+				{
+					"title": "Live View shooting/Movie shooting switching (Movie/Live View shooting)"
+				},
+				{
+					"title": "Smart controller"
+				},
+				{
+					"title": "Vertical shooting controls"
+				}
+			],
+			"6": [
+				{
+					"title": "Add cropping information"
+				},
+				{
+					"title": "Shutter release time lag"
+				},
+				{
+					"title": "Audio compression"
+				},
+				{
+					"title": "Default Erase option"
+				},
+				{
+					"title": "Av setting without lens"
+				},
+				{
+					"title": "Release shutter w/o lens"
+				}
+			],
+			"7": [
+				{
+					"title": "Live View shooting/Movie shooting switching (Movie/Live View shooting)"
+				},
+				{
+					"title": "Smart controller"
+				},
+				{
+					"title": "Vertical shooting controls"
+				}
+			],
+			"8": [
+				{
+					"title": "Retract lens on power off"
+				},
+				{
+					"title": "Add IPTC information"
+				}
+			],
+			"9": [
+				{
+					"title": "Clear all Custom Func. (C.Fn)"
+				}
+			]
+		},
+		{
+			"title": "My Menu",
+			"position": 7,
+			"color": "#006E25",
+			"icon": "star",
+			"1": [
+				{
+					"title": "Add My Menu tab"
+				},
+				{
+					"title": "Delete all My Menu tabs"
+				},
+				{
+					"title": "Delete all items"
+				},
+				{
+					"title": "Bracketing auto cancel"
+				}
+			]
+		}
+	]
+}
